@@ -1,0 +1,55 @@
+a {
+  text-decoration: none;
+  color: #666;
+}
+
+.course-title {
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.course-desc {
+  margin-top: 20px;
+  padding: 0 10px;
+}
+
+.course-desc h2 {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.course-desc h6 {
+  font-size: 16px;
+  color: #666;
+  text-indent: 2em;
+  line-height: 25px;
+}
+
+.news-card {
+  margin-bottom: 10px;
+}
+
+.icon-youbian {
+  position: relative;
+  top: 3px;
+}
+
+.news-desc h6 {
+    font-size: 16px;
+    color: #222;
+    text-indent: 2em;
+    line-height: 25px;
+}
+
+.news-desc img {
+  width: 100%;
+}
+
+.news-time {
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  color: #707070;
+}
